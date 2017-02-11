@@ -4,6 +4,7 @@
 # 交易所
 EXCHANGE_HUOBI = 'HUOBI'  # 火币交易所
 EXCHANGE_OKCOIN = 'OKCOIN'  # okcoin交易所
+EXCHANGE_BITVC = 'BITVC'  # bitvc交易所
 
 # 币种
 BTC = 'BTC'  # 比特币
